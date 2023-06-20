@@ -1,7 +1,7 @@
 👋 Hi, I’m Nikitha                                                <br>
-👀 I’m interested in Web Development                              <br>
-🌱 Currently learning Full Stack JavaScript                       <br>
-💞️ Looking to collaborate on Frontend Development projects    <br>
+🌱 Passionate Web developer                                       <br>
+👀 React Enthusiast                                               <br>
+💞️ Looking to collaborate on Frontend Development projects        <br>
 
 <!---
 nikitha75/nikitha75 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
